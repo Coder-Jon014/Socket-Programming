@@ -1,0 +1,22 @@
+Agent B
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Try the new cross-platform PowerShell https://aka.ms/pscore6
+
+PS C:\Users\jon20> & C:/Users/jon20/AppData/Local/Programs/Python/Python39/python.exe "c:/Users/jon20/OneDrive - The University of the West Indies, Mona Campus/COMP2190(NET-CENTRIC)/COMP2190 Project/Agent.py"
+Enter your connection code: NEL556144
+I saw a purple Kangaroo yesterday, did you?
+Enter your answer: Only after the sun went down
+[CONNECTED] Welcome Agent B Time Logged-10/23/2021, 14:48:40
+
+
+
+Agent A
+C:\Users\jon20\OneDrive\Desktop\Socket-Programming->python Agent.py
+Enter your connection code: KTV902975
+I saw a purple Kangaroo yesterday, did you?
+Enter your answer: Only after the sun went down
+[CONNECTED] Welcome Agent A Time Logged-10/23/2021, 14:48:59 
+
+

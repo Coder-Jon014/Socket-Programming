@@ -1,0 +1,26 @@
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Try the new cross-platform PowerShell https://aka.ms/pscore6
+
+PS C:\Users\jon20\OneDrive\Desktop\Socket-Programming-> & C:/Users/jon20/AppData/Local/Programs/Python/Python39/python.exe c:/Users/jon20/OneDrive/Desktop/Socket-Programming-/Server.py    
+192.168.1.10
+[STRTING] The Server is Starting...
+[LISTENING] Server is listening on 192.168.1.10
+[ACTIVE CONNECTIONS]1
+[ACTIVE CONNECTIONS]2
+[CODE RECEIVED] KTV902975
+[CODE VALID] Agent A
+[NEW CONNECTION] ('192.168.1.10', 57026) connected.
+[SECRET QUESTION]I saw a purple Kangaroo yesterday, did you?
+[SECRET ANSWER]Only after the sun went down
+[CODE RECEIVED] NEL556144
+[CODE VALID] Agent B
+[NEW CONNECTION] ('192.168.1.10', 54965) connected.
+[SECRET QUESTION]I saw a purple Kangaroo yesterday, did you?
+[SECRET ANSWER]Only after the sun went down
+[AGENTANSWER] Only after the sun went down
+[CORRECT ANSWER GIVEN]
+Welcome Agent B Time Logged-10/23/2021, 14:48:40
+[AGENTANSWER] Only after the sun went down
+[CORRECT ANSWER GIVEN]
+Welcome Agent A Time Logged-10/23/2021, 14:48:59
